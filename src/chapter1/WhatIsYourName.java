@@ -10,7 +10,6 @@ public class WhatIsYourName {
         name = JOptionPane.showInputDialog("Добрый день! Как Вас зовут?");
         JOptionPane.showMessageDialog(null, "Приятно познакомиться,\n"+name+"!");
 
-
     }
 
 }
